@@ -1,0 +1,105 @@
+.menu {display: flex;
+        background-color: #3a73751f;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        gap: 100px;
+        justify-content: flex-end;
+        margin-bottom: 50px;
+        padding-right: 50px;}
+.active {background-color:#4143432b;
+        color: #3c2828 ;}
+
+header li a {color:#565959 }
+nav a {text-decoration: none;
+     display: block;}
+     
+#logo { width: 350px;
+       height: auto;
+       padding-left: 10px;
+       padding-top: 10px;
+color: #212020;}
+       
+
+.footer {background-color: #3a73751f;
+    display: flex;
+    align-items: flex-end;}
+.icons { display: flex;
+justify-content: space-around;
+gap: 200px;
+padding-left:150px;
+ padding-right: 100px;}
+
+#g {width: 35px;
+height: auto;}   
+#p {width: 35px;
+height: auto;}
+#f  {width: 35px;
+height: auto;
+padding-top: 15px;}        
+#i {width: 60px;
+height: auto;}
+
+.footer p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+
+#mee {width: 700px;
+     height: auto;
+     padding-left: 10px;
+     }
+     
+
+#abme {color: #1e1d1dd2;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 35px;
+       padding-left: 200px;
+       padding-right: 650px;
+       padding-bottom: 10px;}
+
+#star {padding-left: 230px;
+width: 100px;} 
+
+#intro {
+         color: #353739;
+         font-size:40px;
+         padding-left: 10px;
+         padding-right: 0px;
+         padding-top: 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+
+#aboutme {padding-left: 200px;
+        padding-right: 500px; 
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 40px;
+        color: #2d2a2ad2;}
+
+#descriptions {padding-left: 10px;
+               color:#212020;}
+
+
+#descriptionstext {font-size: 20px;
+          font-style: italic;
+          padding-left: 10px;}
+
+
+.Hphoto{display: flex;
+       gap: 100px;
+       padding-left: 10px;}
+
+
+#photographs {width: 400px;
+        height: 350px;}       
+#Posters {width: 400px;
+    height: 550px}        
+#typography {width: 400px;
+        height: 450px}    
+#elections { width: 300px;}
+
+
+ form div { margin-bottom: 20px;}   
+ form {padding-left: 20px;}
+
+#contactinfo {padding-left: 200px;
+               background-color: #7a92a520;}
